@@ -1,0 +1,139 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Camiseta Mescla",
+            "preco": 28.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 3, "valor parcelas": 9.33}
+            ],
+            "cores": [
+                "Cinza"
+            ],
+            "tamanhos": [
+                "P", "M", "G", "GG"
+            ],
+            "img" : "img/img_2.png"
+        },
+        {
+            "id": 2,
+            "nome": "Saia em Couro",
+            "preco": 398.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 5, "valor parcelas": 30.0}
+            ],
+            "cores": [
+                "Preto"
+            ],
+            "tamanhos": [
+                "36", "38", "40"
+            ],
+            "img" : "img/img_3.png"
+        },
+        {
+            "id": 3,
+            "nome": "Cardigan Tigre",
+            "preco": 398.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 5, "valor parcelas": 30}
+            ],
+            "cores": [
+                "Laranja", "Preto"
+            ],
+            "tamanhos": [
+                "P", "M", "G"
+            ],
+            "img" : "img/img_4.png"
+        },
+        {
+            "id": 4,
+            "nome": "Cardigan Off White",
+            "preco": 99.9,
+            "parcelamento": [
+                {"quantidade_parcelas": 3, "valor parcelas": 33.3}
+            ],
+            "cores": [
+                "Branco"
+            ],
+            "tamanhos": [
+                "M", "G", "GG"
+            ],
+            "img" : "img/img_5.png"
+        },
+        {
+            "id": 5,
+            "nome": "Body Leopardo",
+            "preco": 129.9,
+            "parcelamento": [
+                {"quantidade_parcelas": 3, "valor parcelas": 43.43}
+            ],
+            "cores": [
+                "Marrom", "Laranja"
+            ],
+            "tamanhos": [
+                "GG"
+            ],
+            "img" : "img/img_6.png"
+        },
+        {
+            "id": 6,
+            "nome": "Casaco Pelos",
+            "preco": 398.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 5, "valor parcelas": 30.0}
+            ],
+            "cores": [
+                "Rosa"
+            ],
+            "tamanhos": [
+                "P", "M"
+            ],
+            "img" : "img/img_7.png"
+        },
+        {
+            "id": 7,
+            "nome": "Cropped Stripes",
+            "preco": 120.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 3, "valor parcelas": 40.0}
+            ],
+            "cores": [
+                "Azul", "Laranja", "Vermelho"
+            ],
+            "tamanhos": [
+                "P", "M", "G"
+            ],
+            "img" : "img/img_8.png"
+        },
+        {
+            "id": 8,
+            "nome": "Camisa Transparente",
+            "preco": 398.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 5, "valor parcelas": 30.0}
+            ],
+            "cores": [
+                "Preto"
+            ],
+            "tamanhos": [
+                "P", "M"
+            ],
+            "img" : "img/img_9.png"
+        },
+        {
+            "id": 9,
+            "nome": "Pochete Clutch",
+            "preco": 99.0,
+            "parcelamento": [
+                {"quantidade_parcelas": 3, "valor parcelas": 33.0}
+            ],
+            "cores": [
+                "Preto"
+            ],
+            "tamanhos": [
+                "U"
+            ],
+            "img" : "img/img_10.png"
+        }
+    ]
+}
